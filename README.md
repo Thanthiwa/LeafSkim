@@ -1,5 +1,5 @@
 # LeafSkim
-[![ATM.png](https://i.postimg.cc/zGkG8RZ3/ATM.png)](https://postimg.cc/TKp6c1PX)
+[![ATM.png]([https://i.postimg.cc/zGkG8RZ3/ATM.png](https://i.postimg.cc/pTrvq0nk/image-2025-06-18-134956514.png))]([https://postimg.cc/TKp6c1PX](https://postimg.cc/WDBx4w8J))
 Developed using Python, ESP32, and Firebase to build an IoT device that automatically collects floating leaves from water surfaces.
 Integrated real-time sensors and motor controls to enable autonomous movement and obstacle avoidance.
 Implemented real-time data synchronization with Firebase for remote monitoring and control via mobile or web dashboard.
